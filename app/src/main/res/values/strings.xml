@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JMPENDProject</string>
+    <string name="logo_text">Just Logo</string>
+    <string name="btnStart_text">Let\'s Start</string>
+    <string name="text_login1">Let\'s </string>
+    <string name="text_login2">Start </string>
+    <string name="text_login3">a New</string>
+    <string name="text_login4">Experience </string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="accinfo">ACCOUNT INFORMATION</string>
+
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="icon_description">Icon</string>
+</resources>
